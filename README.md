@@ -36,7 +36,8 @@ EDA involve the exploring of the data to answer some questions about the data su
   ''' SQL'''
 
   SELECT * FROM TABLE1
-  WHERE CONDITION = TRUE  
+  WHERE CONDITION = TRUE
+  '''
 
 
 ### Exploratory Data Analysis
