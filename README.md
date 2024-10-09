@@ -1,6 +1,8 @@
 ### LITA_Class_Documentation
 
-project title: Data Analysis Project 
+This is where i documented my first project while learning Data Analysis with the incubator Hub.
+
+## project title: Data Analysis Project 
 
 ## Data sources
 The primary source of data used here is data sale.csv and this is an open sources data that can be freely downloaded from an open source online such as kaggle or FRED or any other data repository site.
