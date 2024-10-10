@@ -1,14 +1,20 @@
-### LITA_Class_Documentation
+# LITA_Class_Documentation
 
-This is where i documented my first project while learning Data Analysis with the incubator Hub.
+### Project Title : Data Literacy Project  
 
-## project title: Data Analysis Project 
+### project overview
 
-## Data sources
-The primary source of data used here is data sale.csv and this is an open sources data that can be freely downloaded from an open source online such as kaggle or FRED or any other data repository site.
+This Data Analysis project aims to generate insight into the ability to read, write, analyze, communicate, and reason with data. It’s a skill that allows individuals and organizations to make better, data-driven decisions. As with other key competencies, it’s not a one-size-fits-all concept; multiple facets make up data literacy. It is more than just data analysis; instead, it involves understanding what data means and how to present those findings.
 
-## Tools used 
-miscrosoft Excel , and (download here)(https://www.microsoftexcel.com)
+### Data Sources
+The primary source of data used here are surveys, questionaires and interviews, these are some common sources data that can be freely downloaded from an open source online such as kaggle database or Google dataset search or any other data repository site.
+
+### Store Data
+1. cloud
+2. premises 
+
+### Tools used 
+- miscrosoft Excel [Download Here](https://www.microsoft.com)
 1. For data cleaning
 2. For analysis
 3. For data visualization
