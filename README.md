@@ -51,39 +51,25 @@ Data analysis is all about answering questions with data. Exploratory data analy
  ### Data visualization
 Data virtualization provides a modern data layer that enables users to access, combine, transform, and deliver datasets with breakthrough speed and cost-effectiveness. Data virtualization technology gives users fast access to data housed throughout the enterprise—including in traditional databases, big data sources, and cloud and IoT systems—at a fraction of physical warehousing and extract/transform/load (ETL) time and cost.
 
+![DATA VIRTUALIZATION](https://github.com/user-attachments/assets/766b3bb2-0b80-4532-b06e-77a832808131)
 
+-------
 
-|HEADING 1|HEADING 2|HEADING 3|
-|---------|---------|----------|
-|TABLE 1| TABLE 2 | TABLE 3|
+### Common data sources virtualized through data virtualization software
 
+![common data sources](https://github.com/user-attachments/assets/05a54a72-2a9f-4d71-b406-e29c0b6b2517)
 
-   
+Packaged apps
+RDBMS
+Excel & flat files
+Data warehouses
+Data lakes
+Big data
+XML docs
+Cloud data
+Web services
+IoT data
 
--SQL- Structured query language for querying of Data 
-- GITHub for portfolio building
-
- ### Data cleaning and preparation 
- in the initial phase of the data cleaning and preparation, we perform the following action;
- 1. data cleaning
- 2. handling missing variable
- 3. data cleaning and formatting
-
-
-EDA involve the exploring of the data to answer some questions about the data such as;
-- which is the overall sales trend
-- which product are top sellers
-- what are the products on peak sales?
-
-  ### Data Analysis
-  This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis
-
-  ''' SQL'''
-
-  ~~~SQL
-  SELECT * FROM TABLE1
-  WHERE CONDITION = TRUE
-  ~~~
 
 
 
