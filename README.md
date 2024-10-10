@@ -44,9 +44,8 @@ Data analysis is all about answering questions with data. Exploratory data analy
 
 ---
  ### Data visualization
-Humans are visual creatures, which makes data visualization a powerful tool for transforming data into a compelling story to encourage action. Great visualizations are not only fun to create, but they also have the power to make portfolio look beautiful.
 
-This data analysis project aims 
+
 
 
 
