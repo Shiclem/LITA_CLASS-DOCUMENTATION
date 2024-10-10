@@ -4,20 +4,25 @@
 ---
 ### project overview
 ---
+
 This Data Analysis project aims to generate insight into the ability to read, write, analyze, communicate, and reason with data. It’s a skill that allows individuals and organizations to make better, data-driven decisions. As with other key competencies, it’s not a one-size-fits-all concept; multiple facets make up data literacy. It is more than just data analysis; instead, it involves understanding what data means and how to present those findings.
+
 ---
 ### Data Sources
 The primary source of data used here are surveys, questionaires and interviews, these are some common sources data that can be freely downloaded from an open source online such as kaggle database or Google dataset search or any other data repository site.
+
 ---
 ### Store Data
 1. cloud
 2. premises 
+
 ---
 ### Tools used 
 - miscrosoft Excel [Download Here](https://www.microsoft.com)
 1.  For data cleaning
 2.  For analysis
 3.  For data visualization
+
 ---
 ### Data Cleaning And Preparation
 A significant part of my role as a data analyst is cleaning data to prepare it for analysis. Data cleaning (also called data scrubbing) is the process of removing incorrect and duplicate data, managing any holes in the data, and ensuring consistent formatting. 
@@ -44,9 +49,13 @@ Data analysis is all about answering questions with data. Exploratory data analy
 
 ---
  ### Data visualization
+Data virtualization provides a modern data layer that enables users to access, combine, transform, and deliver datasets with breakthrough speed and cost-effectiveness. Data virtualization technology gives users fast access to data housed throughout the enterprise—including in traditional databases, big data sources, and cloud and IoT systems—at a fraction of physical warehousing and extract/transform/load (ETL) time and cost.
 
 
 
+|HEADING 1|HEADING 2|HEADING 3|
+|---------|---------|----------|
+|TABLE 1| TABLE 2 | TABLE 3|
 
 
    
