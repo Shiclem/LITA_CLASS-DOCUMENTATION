@@ -27,7 +27,7 @@ The primary source of data used here are surveys, questionaires and interviews, 
 ### Data Cleaning And Preparation
 A significant part of my role as a data analyst is cleaning data to prepare it for analysis. Data cleaning (also called data scrubbing) is the process of removing incorrect and duplicate data, managing any holes in the data, and ensuring consistent formatting. 
 
-# These are common data cleaning in excel Task:
+### These are common data cleaning in excel Task:
 - Remove duplicates
 -  Standardize formats
 -  Even out casing and remove extra spaces
@@ -53,22 +53,22 @@ Data analysis is all about answering questions with data. Exploratory data analy
 - SQL
 - Tableau
 
-  # Technical skills / programming language
+  ### Technical skills / programming language
   - python
   - R language
   - SQL
  
- # Data Visualization 
+ ### Data Visualization 
  - Tableau
  - Power BI
 
-# Critical Thinking 
+### Critical Thinking 
 
-# Data wrangling and cleaning 
+### Data wrangling and cleaning 
 
-# communication skills 
+### communication skills 
 -----
- ### Data visualization
+ ## Data visualization
 Data virtualization provides a modern data layer that enables users to access, combine, transform, and deliver datasets with breakthrough speed and cost-effectiveness. Data virtualization technology gives users fast access to data housed throughout the enterprise—including in traditional databases, big data sources, and cloud and IoT systems—at a fraction of physical warehousing and extract/transform/load (ETL) time and cost.
 
 ![DATA VIRTUALIZATION](https://github.com/user-attachments/assets/766b3bb2-0b80-4532-b06e-77a832808131)
@@ -90,7 +90,7 @@ Cloud data
 Web services
 IoT data
 
-### Functions to convert dirty data 
+## Functions to convert dirty data 
 - lower : lower case 
 - upper: Upper case 
 - proper : Start with upper and end with lower
@@ -101,65 +101,65 @@ IoT data
 
 ## conditional data analysis formula 
 
-# summation without conditions
+### summation without conditions
 - sum , average, max, counta ,
 
-# With certain conditions 
+### With certain conditions 
 - sumif, averageif , countif, maxif
 
-# more than one criteria 
+### more than one criteria 
 - sumifs, averageifs, countifs, maxifs
 
 ## Lookup functions in Excel: it help find specific data within a range or table. Here are the most commonly used lookup functions:
 
-# VLOOKUP
+### VLOOKUP
 
 Syntax: VLOOKUP(lookup_value, table_array, col_index_num, [range_lookup])
 
 Example: =VLOOKUP(A2, B:C, 2, FALSE) looks up value in cell A2 in column B and returns corresponding value in column C.
 
-# INDEX/MATCH
+### INDEX/MATCH
 
 Syntax: INDEX(range, MATCH(lookup_value, range, [match_type])
 
 Example: =INDEX(C:C, MATCH(A2, B:B, 0)) looks up value in cell A2 in column B and returns corresponding value in column C.
 
-# HLOOKUP
+### HLOOKUP
 
 Syntax: HLOOKUP(lookup_value, table_array, row_index_num, [range_lookup])
 
 Example: =HLOOKUP(A2, B:C, 2, FALSE) looks up value in cell A2 in row B and returns corresponding value in row C.
 
-# LOOKUP
+### LOOKUP
 
 Syntax: LOOKUP(lookup_value, table_array)
 
 Example: =LOOKUP(A2, B:C) looks up value in cell A2 in column B and returns corresponding value in column C.
 
-# Lookup Function Differences:
+### Lookup Function Differences:
 
 - VLOOKUP:
 - Looks up values in a table.
 - Returns a value from a specific column.
 - Can return an approximate match.
 
-  # INDEX/MATCH:
+  ### INDEX/MATCH:
   - More flexible and powerful.
   - Looks up values in a range or table.
  - Returns a value from any range.
     - Exact match only.
 
- # HLOOKUP:
+ ### HLOOKUP:
   - Looks up values in a table.
   - Returns a value from a specific row.
 - Can return an approximate match.
   
-# LOOKUP:
+### LOOKUP:
 - Simple lookup function.
 - Looks up values in a table.
 - Returns a value from the same table.
 
-# Tips and Best Practices:
+### Tips and Best Practices:
 
 - Use absolute references ($A$2) instead of relative references (A2).
 - Use table references instead of range references.
@@ -167,19 +167,19 @@ Example: =LOOKUP(A2, B:C) looks up value in cell A2 in column B and returns corr
 - INDEX/MATCH is often faster and more efficient.
 - Use LOOKUP for simple, exact matches.
 
-# Common Errors:
+### Common Errors:
 
 - #N/A (value not found)
 - #REF! (invalid reference)
 - #VALUE! (invalid data type)
 
-# Troubleshooting:
+### Troubleshooting:
 
 - Check spelling and formatting.
 - Verify lookup value exists.
  - Adjust range or table references.
 
-# what are the specific lookup question or scenario?
+### what are the specific lookup question or scenario?
 
 -  VLOOKUP issue
 - INDEX/MATCH query
@@ -187,27 +187,27 @@ Example: =LOOKUP(A2, B:C) looks up value in cell A2 in column B and returns corr
 - LOOKUP trouble
 - Other (please specify)
 
-## Here are the most commonly used lookup functions:
+### Here are the most commonly used lookup functions:
 
-# VLOOKUP*
+### VLOOKUP*
 
 Syntax: VLOOKUP(lookup_value, table_array, col_index_num, [range_lookup])
 
 Example: =VLOOKUP(A2, B:C, 2, FALSE) looks up value in cell A2 in column B and returns corresponding value in column C.
 
-# INDEX/MATCH*
+### INDEX/MATCH*
 
 Syntax: INDEX(range, MATCH(lookup_value, range, [match_type])
 
 Example: =INDEX(C:C, MATCH(A2, B:B, 0)) looks up value in cell A2 in column B and returns corresponding value in column C.
 
-# HLOOKUP*
+### HLOOKUP*
 
 Syntax: HLOOKUP(lookup_value, table_array, row_index_num, [range_lookup])
 
 Example: =HLOOKUP(A2, B:C, 2, FALSE) looks up value in cell A2 in row B and returns corresponding value in row C.
 
-# LOOKUP*
+### LOOKUP*
 
 Syntax: LOOKUP(lookup_value, table_array)
 
@@ -215,26 +215,43 @@ Example: =LOOKUP(A2, B:C) looks up value in cell A2 in column B and returns corr
 
 ## Lookup Function Differences:
 
-# VLOOKUP:
+### VLOOKUP:
     - Looks up values in a table.
     - Returns a value from a specific column.
     - Can return an approximate match.
     
- # INDEX/MATCH:
+ ### INDEX/MATCH:
     - More flexible and powerful.
     - Looks up values in a range or table.
     - Returns a value from any range.
     - Exact match only.
-# HLOOKUP:
+### HLOOKUP:
     - Looks up values in a table.
     - Returns a value from a specific row.
     - Can return an approximate match.
     
- # LOOKUP:
+ ### LOOKUP:
     - Simple lookup function.
     - Looks up values in a table.
     - Returns a value from the same table.
 
  
+### Pivot Table 
 
+This is the tool that summarize data. 
+control shift 1 is to get decimal in data. 
 
+### cell referencing 
+
+This means how Excel treat whatever cell you are referencing in your calculation. 
+
+# Kind of Cell Referencing 
+- Relative : free to move
+- Absolute: locking
+- column constant: $u7
+- Roll constant: U$7
+The last two are mixed referencing.
+= formulatex-to pull out the exact formula behind result.
+
+### absolute =select salary* by percentage increase. 
+- press f4 to lock cell etc 
